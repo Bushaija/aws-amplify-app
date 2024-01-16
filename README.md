@@ -1,8 +1,25 @@
-# React + Vite
+# Vite React Website on AWS Amplify
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://main.d2or92gd59g4oj.amplifyapp.com/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Currently, two official plugins are available:
+This repository contains the source code for a Vite-powered React website hosted on AWS Amplify.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
+- [Demo](#demo)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Demo
+
+Check out the live demo: [Vite React Website](https://main.d2or92gd59g4oj.amplifyapp.com/)
+
+## Features
+
+- **React**: Utilizing the power of React for building interactive user interfaces.
+- **Vite**: Fast and efficient development setup with Vite for modern web projects.
+- **AWS Amplify**: Seamless deployment and hosting on AWS Amplify with automatic CI/CD.
+
